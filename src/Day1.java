@@ -9,7 +9,7 @@ public class Day1 {
 
     public static void main(String[] args) {
         try {
-            Scanner fileInput = new Scanner(new File("src/inputs.txt"));
+            Scanner fileInput = new Scanner(new File("src/inputs1.txt"));
 
             List<Integer> inputList1 = new ArrayList<>();
             List<Integer> inputList2 = new ArrayList<>();
